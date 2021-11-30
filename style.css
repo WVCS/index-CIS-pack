@@ -1,3 +1,22 @@
-body {
-
+Body {
+  background-color: Cyan;
 }
+
+h2 {
+  color: gold;
+  text-align: center;
+  background-color: black;
+  border: 5px black groove;
+  Font-size: 50px;
+  font-family: Lucida Handwriting;
+}
+li{
+  font-size: 40px;
+}
+p{
+  Font-size: 50px; 
+}
+
+table, tr, td, th {
+  border: 2px solid green;
+  font-size: 55px;
