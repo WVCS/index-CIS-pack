@@ -20,3 +20,20 @@ p{
 table, tr, td, th {
   border: 2px solid green;
   font-size: 55px;
+
+  #Nav {
+    list-style-type: none;
+      width: 100%;
+      overflow: hidden;
+      position: fixed;
+      background-color: black;
+  }
+  li a {
+    display: block;
+      float: left;
+      padding: 10px 100px;
+      color: White;
+  }
+  li a:hover{
+    background-color: red;
+  }
